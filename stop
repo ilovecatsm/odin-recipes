@@ -1,0 +1,43 @@
+[33mcommit 55e37beecdc9cd0115e4a016e01abd199d038857[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Kendall Taliaferro <153865120+ilovecatsm@users.noreply.github.com>
+Date:   Wed Dec 20 13:30:44 2023 -0600
+
+    this should be correct, i think i added everything to the files and pushed everything
+
+[33mcommit e9d5f5806b8c29b476dea05a6f54b246ae17de2a[m
+Author: Kendall Taliaferro <153865120+ilovecatsm@users.noreply.github.com>
+Date:   Wed Dec 20 13:20:54 2023 -0600
+
+    Image sizing (oreos)
+    
+    fixed the image sizing for the oreos photo. it looks stretched still but i think it looks a little better than it did before
+
+[33mcommit f750f1d6febdb891167e4af8f58f14642cf1c668[m
+Author: Kendall Taliaferro <153865120+ilovecatsm@users.noreply.github.com>
+Date:   Wed Dec 20 12:25:19 2023 -0600
+
+    Image size fix
+    
+    fixed the sizing of the image of the cookies (it was wayy too big and took up the entire screen, its much better now)
+
+[33mcommit 5ab6faf63d4b4c3a82f60f11882ab0d805e59224[m
+Author: Kendall Taliaferro <153865120+ilovecatsm@users.noreply.github.com>
+Date:   Wed Dec 20 12:22:34 2023 -0600
+
+    First href link
+    
+    fixed the broken link to the href. the problem was that i didnt include the file path correctly (i forgot i was on linux and didnt include the local host etc part of the link)
+
+[33mcommit f477861adacd010f4762b4ae9f65a4f7447bd0c5[m
+Author: Kendall Taliaferro <153865120+ilovecatsm@users.noreply.github.com>
+Date:   Wed Dec 20 12:07:35 2023 -0600
+
+    testing the commits and trying to get a feel for the general linux + git workflow
+
+[33mcommit bc7b63928521c9133e5ff6bf3231f017011e7884[m
+Author: Kendall Taliaferro <153865120+ilovecatsm@users.noreply.github.com>
+Date:   Wed Dec 20 11:53:38 2023 -0600
+
+    test commit!
+    
+    this commit is simply a test to make sure that i did everything correctly
